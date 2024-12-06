@@ -15,6 +15,10 @@
 			"Name": "UltimateLevelArtTool",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ec0988f250ef49ebaf7852cdfe3e6516"
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
